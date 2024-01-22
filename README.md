@@ -1,4 +1,4 @@
-# s11-05-n-node-react
+#Node + react
 
 #### **Let´s Play**
 Es una pagina o una aplicación de moviles para agendar partidos presenciales o virtuales o para encontrar un jugador que falta en el equipo.
